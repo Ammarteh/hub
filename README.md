@@ -1,0 +1,4 @@
+hub
+===
+
+Hub plugin.
